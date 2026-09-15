@@ -19,3 +19,7 @@ Some ways to think of this one:
 ### Clones
 
 Many of the identities in this repository are based off of actual people (who were **willing** to be "cloned" as a blob), or spin-offs of actual people (a sort of caricature, if you will). Additional notes will be found in the NOTES.txt page of that blob's folder.
+
+## Licence
+
+All identities and presets in this repository are under the CC0 licence (or public domain). Check the [licence](LICENSE) file for a copy of the licence.
