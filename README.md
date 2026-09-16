@@ -22,4 +22,4 @@ Many of the identities in this repository are based off of actual people (who we
 
 ## Licence
 
-All identities and presets in this repository are under the CC0 licence (or public domain). Check the [licence](LICENSE) file for a copy of the licence.
+All identities and presets in this repository are under the CC0 licence (or public domain). Check the [licence](LICENSE) file for a copy of the licence. (IMPORTANT: while the data itself is free-to-use, the system itself used to parse this data is not.)
