@@ -6,6 +6,10 @@ This repository will contain identities and presets that will be able to be used
 
 Ranges that give some detail about some section of an identity. Cannot be used on its own as a functioning identity. *(You could think of this like a label, e.g. extroverted.)*
 
+### Primitive Registry
+
+These are the most basic presets and function as a starting point or definition for a fundamental trait of an identity. These are the "building blocks" of an identity.
+
 ## Identities
 
 Fully blown working identities - with morals, self-classification, self-reference, and self-representation working together to keep the blob working at its peak power and at maximum stability.
