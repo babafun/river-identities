@@ -1,0 +1,10 @@
+[head]
+version = "0.1.0"
+id = "gender"
+domain = "index"
+
+[body]
+male = "male/primitive.toml"
+female = "female/primitive.toml"
+maxmasc = "maxmasc/primitive.toml"
+maxfem = "maxfem/primitive.toml"
