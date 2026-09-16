@@ -1,0 +1,13 @@
+{
+    "head": {
+        "version": "0.1.0",
+        "id": "gender.maxmasc",
+        "domain": "gender"
+    },
+    "body": {
+        "masc": 1.0,
+        "fem": 0.0,
+        "neut": 0.0,
+        "liquid": 0.0
+    }
+}

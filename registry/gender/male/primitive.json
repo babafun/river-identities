@@ -1,0 +1,13 @@
+{
+    "head": {
+        "version": "1.0.0",
+        "id": "gender.male",
+        "domain": "gender"
+    },
+    "body": {
+        "masc": 0.95,
+        "fem": 0.3,
+        "neut": 0.25,
+        "liquid": 0.0
+    }
+}

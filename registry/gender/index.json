@@ -1,0 +1,9 @@
+{
+    "head": {"version": "0.1.0", "id": "gender", "domain": "index"},
+    "body": {
+        "male": "male/primitive.json",
+        "female": "female/primitive.json",
+        "maxmasc": "maxmasc/primitive.json",
+        "maxfem": "maxfem/primitive.json"
+    }
+}
