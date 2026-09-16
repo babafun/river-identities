@@ -1,0 +1,10 @@
+[head]
+version = "1.0.0"
+id = "gender.female"
+domain = "gender"
+
+[body]
+masc = 0.3
+fem = 0.95
+neut = 0.25
+liquid = 0.0
