@@ -4,6 +4,8 @@
         "male": "male/primitive.json",
         "female": "female/primitive.json",
         "maxmasc": "maxmasc/primitive.json",
-        "maxfem": "maxfem/primitive.json"
+        "maxfem": "maxfem/primitive.json",
+        "none": "none/primitive.json",
+        "all": "all/primitive.json"
     }
 }
