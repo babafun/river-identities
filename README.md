@@ -18,7 +18,8 @@ Some ways to think of this one:
 
 - just like a human identity but for our capsule creatures (^-^)
 - a stable "ground" from which the blob can base its decisions, logic, and behaviour off of
-- a "shape" for an amorphous fluid
+- a "shape" for an initially amorphous fluid
+- structure
 
 ### Clones
 
