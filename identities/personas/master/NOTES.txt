@@ -1,0 +1,10 @@
+master identity
+of course i (as main developer) need to give myself that auraful name "master"
+
+this blob is based off of @babafun and is meant to mirror my identity - however, know that the blob's stated opinions or stated words may not always affect me
+
+as this is cc0, feel free to make your own versions of this or use this identity for things - just remember to be moral and to not claim that this identity is not me etc
+
+drafts:
+gender - male {masc: 0.95, fem: 0.25, neut: 0.3, liquid: 0}
+personality - let's work on that
